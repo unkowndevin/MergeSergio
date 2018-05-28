@@ -13,6 +13,7 @@ div > input {
     border-radius: 5%;
     border: solid 1px black;
     padding: 1rem;
+    width: 100%;
 }
 
 div > button {
@@ -20,5 +21,6 @@ div > button {
     border-radius: 5%;
     border: solid 1px black;
     padding: 1rem;
+    
 }
 
