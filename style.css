@@ -10,17 +10,26 @@ div{
 
 div > input {
     background: white;
-    border-radius: 5%;
+    border-radius: 10px;
     border: solid 1px black;
     padding: 1rem;
+<<<<<<< HEAD
     width: 100%;
+=======
+    width: 50%;
+>>>>>>> alanrl
 }
 
 div > button {
     background: white;
     border-radius: 5%;
     border: solid 1px black;
+<<<<<<< HEAD
     padding: 1rem;
     
+=======
+    padding: 1rem; 
+    margin: 1rem;
+>>>>>>> alanrl
 }
 
