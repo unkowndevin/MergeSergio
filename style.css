@@ -10,5 +10,15 @@ div{
 
 div > input {
     background: white;
+    border-radius: 5%;
+    border: solid 1px black;
+    padding: 1rem;
+}
+
+div > button {
+    background: white;
+    border-radius: 5%;
+    border: solid 1px black;
+    padding: 1rem;
 }
 
